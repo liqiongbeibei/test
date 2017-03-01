@@ -1,4 +1,1 @@
-add some text
-add some local text
-add some texts
-add some remote texts
+add some teacher texts
